@@ -1,4 +1,4 @@
-<img src="[https://github-readme-stats.vercel.app/api?username=Viquess&show_icons=true](https://github-readme-stats.vercel.app/api?username=Viquess&show_icons=true&theme=vision-friendly-dark&count_private=true)">
+<img src="https://github-readme-stats.vercel.app/api?username=Viquess&show_icons=true&theme=vision-friendly-dark&count_private=true">ì
 
 > My contact » [@Viques](https://t.me/Viques) on **Telegram**.
 > 
