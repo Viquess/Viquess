@@ -12,7 +12,7 @@
 
 
 ## 📈 Most used
-  ![Used](https://skillicons.dev/icons?i=java,python,idea,github,mysql,jenkins)
+  ![Used](https://skillicons.dev/icons?i=java,python,mysql,idea,github,gradle,maven,jenkins)
 
 ## ✉️ Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Viques)
