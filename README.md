@@ -5,7 +5,7 @@
 
 ## 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viquess&hide=stars&show_icons=true&theme=apprentice&icon_color=dcdcdc&bg_color=00000000" alt="Viquess's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viquess&hide=stars&include_all_commits=true&show_icons=true&theme=apprentice&icon_color=dcdcdc&bg_color=00000000" alt="Viquess's Github stats">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viquess&layout=compact&theme=apprentice&bg_color=00000000&hide_border" alt="Viquess's Language stats">
 </div>
