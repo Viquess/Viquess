@@ -1,21 +1,19 @@
-👋 Hi, I'm Vincenzo<br>
-📆 19 yo<br>
-📚 Computer Science student at "La Sapienza" University of Rome<br>
-💼 [@TecnoCraftNet](https://github.com/TecnoCraftNet) developer<br><br>
+# 👋 Hi, I'm Vincenzo!
+📆 20 yo<br>
+💼 [@TecnoCraftNet](https://github.com/TecnoCraftNet) developer<br>
+📚 Computer Science student at "La Sapienza" University of Rome<br><br>
 
-<div align="center"> 
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viquess&layout=compact&theme=react#gh-dark-mode-only" alt="Viquess's Language stats">
-<img height=150 src=https://github-readme-stats.vercel.app/api?username=Viquess&show_icons=true&theme=react#gh-dark-mode-only" alt="Viquess's Github stats">
+## 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viquess&hide=stars&show_icons=true&theme=apprentice&icon_color=dcdcdc&bg_color=00000000" alt="Viquess's Github stats">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viquess&layout=compact&theme=apprentice&bg_color=00000000&hide_border" alt="Viquess's Language stats">
 </div>
 
-<br>
 
-<div>
-<a href="https://discord.com/users/415610256492724224">
-<img src="https://img.shields.io/badge/%40viquess-999999?logo=Discord" alt="Discord">
-</a>
+## 📈 Most used
+  ![Used](https://skillicons.dev/icons?i=java,python,idea,github,mysql,jenkins)
 
-<a href="https://t.me/Viques">
-<img src="https://img.shields.io/badge/%40Viques-26a4e2?logo=telegram" alt="Telegram">
-</a>
-</div>
+## ✉️ Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Viques)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/415610256492724224)
