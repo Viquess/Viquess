@@ -3,7 +3,7 @@
 💼 [@TecnoCraftNet](https://github.com/TecnoCraftNet) developer<br>
 📚 Computer Science student at "La Sapienza" University of Rome<br><br>
 
-## 📊 Github public stats
+## 📊 Public stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viquess&hide=stars&show_icons=true&theme=apprentice&icon_color=dcdcdc&bg_color=00000000&include_all_commits=true" alt="Viquess's Github stats">
 </div>
