@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Viques&layout=compact&theme=apprentice&bg_color=00000000" alt="Viquess's WakaTime stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Viques&layout=compact&theme=apprentice&bg_color=00000000&custom_title=Viques’%20WakaTime%20(from%2011%20Sep%202025)" alt="Viquess's WakaTime stats">
 </div>
 
 ## 📈 Most used
