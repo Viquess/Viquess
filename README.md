@@ -6,7 +6,9 @@
 ## 📊 Github public stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viquess&hide=stars&show_icons=true&theme=apprentice&icon_color=dcdcdc&bg_color=00000000&include_all_commits=true" alt="Viquess's Github stats">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Viques&layout=compact&theme=apprentice&bg_color=00000000" alt="Viquess's WakaTime stats">
 </div>
 
